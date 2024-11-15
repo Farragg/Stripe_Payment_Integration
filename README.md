@@ -39,8 +39,8 @@ Follow these steps to get your development environment up and running.
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/Farragg/Technical_Task.git
-cd Technical_Task
+git clone https://github.com/Farragg/Stripe_Payment_Integration.git
+cd Stripe_Payment_Integration
 ```
 ### 2. Install Dependencies
 
